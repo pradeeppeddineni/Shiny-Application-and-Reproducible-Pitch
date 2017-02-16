@@ -58,7 +58,7 @@ Plot
 
 The relationship between population data between locations all plotted below..
 
-![plot of chunk unnamed-chunk-2](population-figure/unnamed-chunk-2-1.png)
+![plot of chunk unnamed-chunk-2](unnamed-chunk-2-1.png)
 
 
 Installation Manual
